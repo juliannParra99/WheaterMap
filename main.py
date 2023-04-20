@@ -1,6 +1,7 @@
 import httpx
 from fastapi import FastAPI
 
+
 app = FastAPI()
 
 
